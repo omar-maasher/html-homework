@@ -1,0 +1,26 @@
+C:\Users\OMAR\source\repos\homework html\homework html\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OMAR\source\repos\homework html\homework html\bin\Debug\net6.0\appsettings.json
+C:\Users\OMAR\source\repos\homework html\homework html\bin\Debug\net6.0\homework html.staticwebassets.runtime.json
+C:\Users\OMAR\source\repos\homework html\homework html\bin\Debug\net6.0\homework html.exe
+C:\Users\OMAR\source\repos\homework html\homework html\bin\Debug\net6.0\homework html.deps.json
+C:\Users\OMAR\source\repos\homework html\homework html\bin\Debug\net6.0\homework html.runtimeconfig.json
+C:\Users\OMAR\source\repos\homework html\homework html\bin\Debug\net6.0\homework html.dll
+C:\Users\OMAR\source\repos\homework html\homework html\bin\Debug\net6.0\ref\homework html.dll
+C:\Users\OMAR\source\repos\homework html\homework html\bin\Debug\net6.0\homework html.pdb
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\homework html.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\homework html.AssemblyInfoInputs.cache
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\homework html.AssemblyInfo.cs
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\homework html.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\homework html.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\homework html.RazorAssemblyInfo.cache
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\homework html.RazorAssemblyInfo.cs
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\scopedcss\bundle\homework html.styles.css
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\scopedcss\projectbundle\homework html.bundle.scp.css
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\homework html.dll
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\ref\homework html.dll
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\homework html.pdb
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\homework html.genruntimeconfig.cache
+C:\Users\OMAR\source\repos\homework html\homework html\obj\Debug\net6.0\homework html.csproj.AssemblyReference.cache
